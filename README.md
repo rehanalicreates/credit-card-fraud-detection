@@ -76,6 +76,6 @@ Choosing the right evaluation metrics
 Writing clean, modular, readable code
 ```
 
-👤 Author
-Rehan Ali — Data Analyst
+## 👤 Author
+**Rehan Ali** — Data Analyst
 [GitHub](https://github.com/rehanalicreates)

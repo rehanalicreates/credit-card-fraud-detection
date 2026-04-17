@@ -56,8 +56,7 @@ fraud-detection/
 - joblib
 ---
 ## ▶️ How to Run
-**Install dependencies:**
-```bash
+
 pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn joblib
 
 Run scripts in order:

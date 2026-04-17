@@ -78,5 +78,4 @@ Writing clean, modular, readable code
 
 👤 Author
 Rehan Ali — Data Analyst
-
-GitHub
+[GitHub](https://github.com/rehanalicreates)

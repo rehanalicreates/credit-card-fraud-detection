@@ -35,15 +35,15 @@ Banks and fintech companies lose billions every year to fraudulent transactions.
 ---
 ## 🗂 Project Structure
 
-fraud-detection/
-├── 1_explore.py # Load and explore the dataset
-├── 2_preprocess.py # Scale features and split data
-├── 3_train.py # SMOTE + Random Forest training
-├── 4_evaluate.py # Performance metrics + PR curve
-├── 5_score.py # Anomaly scoring system
-├── outputs/
-│ └── pr_curve.png # Precision-Recall chart
-└── README.md
+| File | Description |
+|---|---|
+| `1_explore.py` | Load and explore the dataset |
+| `2_preprocess.py` | Scale features and split data |
+| `3_train.py` | SMOTE + Random Forest training |
+| `4_evaluate.py` | Performance metrics + PR curve |
+| `5_score.py` | Anomaly scoring system |
+| `outputs/pr_curve.png` | Precision-Recall chart |
+| `README.md` | Project documentation |
 
 ---
 ## 🛠 Tools Used
@@ -55,8 +55,11 @@ fraud-detection/
 - `joblib`
 ---
 ## ▶️ How to Run
+Install dependencies:
 ```bash
 pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn joblib
+
+Run scripts in order:
 
 python 1_explore.py
 python 2_preprocess.py
@@ -71,6 +74,7 @@ Handling severely imbalanced real-world data
 Building a production-style anomaly scoring system
 Choosing the right evaluation metrics
 Writing clean, modular, readable code
-
 👤 Author
-Rehan Ali — Data Analyst · GitHub
+Rehan Ali — Data Analyst
+
+GitHub
